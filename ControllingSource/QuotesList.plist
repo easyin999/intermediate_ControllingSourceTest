@@ -4,6 +4,12 @@
 <array>
 	<dict>
 		<key>personName</key>
+		<string>Test Jr.</string>
+		<key>famousQuote</key>
+		<string>&quot;ha ha ha&quot;</string>
+	</dict>
+	<dict>
+		<key>personName</key>
 		<string>Martin Luther King, Jr.</string>
 		<key>famousQuote</key>
 		<string>&quot;Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.&quot;</string>
